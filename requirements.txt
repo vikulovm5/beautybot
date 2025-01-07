@@ -1,0 +1,8 @@
+python bot_service.py
+python image_processing_service.py
+python face_detection_service.py
+python mask_management_service.py
+
+opencv-python~=4.8.0.76
+numpy~=1.25.2
+python-telegram-bot~=13.3
